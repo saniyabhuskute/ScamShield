@@ -1,0 +1,5 @@
+# Install in addition to requirements.txt when the trained model is supplied.
+# Select the PyTorch wheel that matches the target machine (CPU or CUDA).
+transformers>=4.45,<6
+safetensors>=0.4,<1
+torch>=2.6,<3

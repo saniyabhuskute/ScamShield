@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+.lt-venv/
+__pycache__/
+*.py[cod]
+*.err
+*.log
+.env
+backend/data/*.db
+backend/data/*.db-*
+backend/models/
